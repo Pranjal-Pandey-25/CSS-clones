@@ -83,7 +83,12 @@ main span div{
     cursor: pointer;
     color: white;
     border: none;
-    margin: 12px 0px    ;
+    margin: 12px 0px;
+}
+
+.btn a{
+     text-decoration: none;
+     color: #f9f9f9;
 }
 main span div button:hover{
     color: rgb(0, 0, 0);
